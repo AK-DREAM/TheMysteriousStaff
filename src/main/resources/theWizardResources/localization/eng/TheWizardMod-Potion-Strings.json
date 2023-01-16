@@ -1,0 +1,14 @@
+{
+        "theWizard:ColdPotion": {
+                "NAME": "Cold Potion",
+                "DESCRIPTIONS": ["Apply #b", " #yCold."]
+        },
+        "theWizard:RealManaPotion": {
+                "NAME": "Real Mana Potion",
+                "DESCRIPTIONS": ["The next #b", " #yMcost card you play won't exhaust Mana."]
+        },
+        "theWizard:FreePotion": {
+                "NAME": "Free Potion",
+                "DESCRIPTIONS": ["Choose #b", " cards in your hand and set their cost to 0 this combat."]
+        }
+}

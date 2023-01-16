@@ -1,0 +1,14 @@
+{
+        "theWizard:ColdPotion": {
+                "NAME": "寒冷药水",
+                "DESCRIPTIONS": ["给予目标 #b", " 点 #y寒冷 。"]
+        },
+        "theWizard:RealManaPotion": {
+                "NAME": "真·法力药水",
+                "DESCRIPTIONS": ["你本回合打出的下 #b", " 张 #y魔耗 牌 不消耗 #y法力 。"]
+        },
+        "theWizard:FreePotion": {
+                "NAME": "免费药水",
+                "DESCRIPTIONS": ["选择 #b", " 张手牌 , 在本场战斗中耗能变为 #b0 。"]
+        }
+}

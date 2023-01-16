@@ -1,0 +1,44 @@
+[
+  {
+    "NAMES": [
+      "Mcost", "mcost"
+    ],
+    "DESCRIPTION": "If you have at least X Mana in your hand, exhaust X of them and trigger the effect."
+  },
+  {
+    "NAMES": [
+      "Mana", "mana"
+    ],
+    "DESCRIPTION": "A 0-cost card used for other Mcost cards."
+  },
+  {
+    "NAMES": [
+      "Odd", "odd"
+    ],
+    "DESCRIPTION": "Trigger the effect when the size of your exhaust pile is odd."
+  },
+  {
+    "NAMES": [
+      "Even", "even"
+    ],
+    "DESCRIPTION": "Trigger the effect when the size of your exhaust pile is even."
+  },
+  {
+    "NAMES": [
+      "Cold", "cold"
+    ],
+    "DESCRIPTION": "When owner attacks, reduce Cold and reduce the damage by the same number. The owner itself will take the reduced damage. Reduce by half at the end of turn."
+  },
+  {
+    "NAMES": [
+      "Frostbite", "frostbite"
+    ],
+    "DESCRIPTION": "Trigger the effect if the enemy has Cold."
+  },
+  {
+    "NAMES": [
+      "Slow", "slow"
+    ],
+    "DESCRIPTION": "The Debuff which #yGiant #yHead has. Not stackable."
+  }
+]

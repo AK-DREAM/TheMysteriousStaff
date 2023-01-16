@@ -1,0 +1,87 @@
+{
+  "theWizard:Canteen": {
+    "NAME": "水壶",
+    "FLAVOR": "装满法力之泉的水壶。",
+    "DESCRIPTIONS": [
+      "战斗开始时，将 #b2 张 #y升级 过的 #y法力 加入手牌。"
+    ]
+  },
+  "theWizard:IceCube": {
+    "NAME": "冰块",
+    "FLAVOR": "这块冰从不融化。",
+    "DESCRIPTIONS": [
+      "每回合结束时 , 敌人的 #y寒冷 至多减少 #b15 。"
+    ]
+  },
+  "theWizard:Wand": {
+    "NAME": "短魔杖",
+    "FLAVOR": "可以辅助施法。",
+    "DESCRIPTIONS": [
+      "每消耗 #b10 张 #y法力 , 获得 [E] 。"
+    ]
+  },
+  "theWizard:GoldenCanteen": {
+    "NAME": "金水壶",
+    "FLAVOR": "真不错!",
+    "DESCRIPTIONS": [
+      "替换 #y水壶 。在每回合开始时获得 [E] 。"
+    ]
+  },
+  "theWizard:Cloak": {
+    "NAME": "斗篷",
+    "FLAVOR": "可以硬化来抵御攻击。",
+    "DESCRIPTIONS": [
+      "每当你发动 #y魔耗 时 , 获得 #b4 点 #y格挡。"
+    ]
+  },
+  "theWizard:ColdCoin": {
+    "NAME": "冰冷硬币",
+    "FLAVOR": "持有者越富有 , 它越冰冷。",
+    "DESCRIPTIONS": [
+      "回合结束时 , 你每有 #b100 #y金币 , 给予所有敌人 #b1 层寒冷 。"
+    ]
+  },
+  "theWizard:AirConditioner": {
+    "NAME": "空调",
+    "FLAVOR": "来自未来的高科技产品。似乎可以降低气温。",
+    "DESCRIPTIONS": [
+      "每当你给予敌人 #y寒冷 时 , 额外给予 #b1 层 #y寒冷。"
+    ]
+  },
+  "theWizard:CrystalBall": {
+    "NAME": "水晶球",
+    "FLAVOR": "水晶球中的景象无法看清。",
+    "DESCRIPTIONS": [
+      "每当你将要获得 #y格挡 时 , 改为将等量 #y寒冷 给予 #y寒冷 层数最低的敌人。你不再受非敌人攻击的伤害(如 #y死亡律动 , #y荆棘 )。"
+    ]
+  },
+  "theWizard:MagicHammer": {
+    "NAME": "魔力之锤",
+    "FLAVOR": "依靠消耗法力发出的热来强化。",
+    "DESCRIPTIONS": [
+      "战斗开始时 , 升级 所有手牌。(仅本场战斗有效)"
+    ]
+  },
+  "theWizard:DarkMagicBook": {
+    "NAME": "黑魔法书",
+    "FLAVOR": "你无法控制其中喷涌而出的法力。",
+    "DESCRIPTIONS": [
+      "你不再能主动打出 #y法力 。在每回合开始时获得 [E] 。"
+    ]
+  },
+  "theWizard:MagicHat": {
+    "NAME": "魔术帽",
+    "FLAVOR": "什么东西都能塞进去。",
+    "DESCRIPTIONS": [
+      "如果你在回合中不打出任何 #y攻击牌 , 在本回合 #y保留 你的手牌。",
+      "吕蒙(doge)"
+    ]
+  },
+  "theWizard:ToyBattery": {
+    "NAME": "玩具电池",
+    "FLAVOR": "你不知道它是干什么用的。它是魔法吗?",
+    "DESCRIPTIONS": [
+      "你的手牌上限增加 #b1 。"
+    ]
+  }
+}

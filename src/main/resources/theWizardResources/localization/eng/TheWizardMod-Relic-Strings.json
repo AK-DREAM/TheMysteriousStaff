@@ -1,0 +1,87 @@
+{
+  "theWizard:Canteen": {
+    "NAME": "Canteen",
+    "FLAVOR": "A Canteen full of water of Mana.",
+    "DESCRIPTIONS": [
+      "At the start of each combat , add #b2 #yupgraded #yMana to your hand."
+    ]
+  },
+  "theWizard:IceCube": {
+    "NAME": "Ice Cube",
+    "FLAVOR": "It never melt.",
+    "DESCRIPTIONS": [
+      "At the end of each turn , enemies lose at most 15 Cold."
+    ]
+  },
+  "theWizard:Wand": {
+    "NAME": "Wand",
+    "FLAVOR": "It can help cast spells.",
+    "DESCRIPTIONS": [
+      "Whenever you exhaust #b10 #yMana , gain [E] ."
+    ]
+  },
+  "theWizard:GoldenCanteen": {
+    "NAME": "Golden Canteen",
+    "FLAVOR": "Pretty!",
+    "DESCRIPTIONS": [
+      "Replaces #yCanteen. Gain [E] at the start of your turn."
+    ]
+  },
+  "theWizard:Cloak": {
+    "NAME": "Cloak",
+    "FLAVOR": "It can harden to block damage.",
+    "DESCRIPTIONS": [
+      "Whenever a Mcost effect triggers , gain #b4 Block."
+    ]
+  },
+  "theWizard:ColdCoin": {
+    "NAME": "Cold Coin",
+    "FLAVOR": "The richer the owner is , the colder it is.",
+    "DESCRIPTIONS": [
+      "At the end of turn , Apply #b1 Cold to ALL enemies for every #b100 gold you have."
+    ]
+  },
+  "theWizard:AirConditioner": {
+    "NAME": "Air Conditioner",
+    "FLAVOR": "A high-tech thing from the future. Seems that it can lower the temperature.",
+    "DESCRIPTIONS": [
+      "Whenever you apply #yCold to enemies , apply 1 additional #yCold."
+    ]
+  },
+  "theWizard:CrystalBall": {
+    "NAME": "Crystal Ball",
+    "FLAVOR": "You can't see the scene in it clearly.",
+    "DESCRIPTIONS": [
+      "Whenever you are going to gain Block , skip that and apply #yCold of the same amount to the enemy with the lowest #yCold. You no longer take non-attack damage ( #yThorns etc. )."
+    ]
+  },
+  "theWizard:MagicHammer": {
+    "NAME": "Magic Hammer",
+    "FLAVOR": "Upgrade your cards with magic!",
+    "DESCRIPTIONS": [
+      "At the start of each combat , #yupgrade ALL cards in your hand. (Only in this combat)"
+    ]
+  },
+  "theWizard:DarkMagicBook": {
+    "NAME": "Dark Magic Book",
+    "FLAVOR": "You can't control the strong magic power inside it.",
+    "DESCRIPTIONS": [
+      " #yMana will be #yUnplayable. Gain [E] at the start of your turn."
+    ]
+  },
+  "theWizard:MagicHat": {
+    "NAME": "Magic Hat",
+    "FLAVOR": "You can put everything in it.",
+    "DESCRIPTIONS": [
+      "If you do not play any #yAttacks during your turn, retain your hand this turn.",
+      "hello world"
+    ]
+  },
+  "theWizard:ToyBattery": {
+    "NAME": "Toy Battery",
+    "FLAVOR": "You have no idea about it. Is it magic?",
+    "DESCRIPTIONS": [
+      "Increase your max hand size by #b1 ."
+    ]
+  }
+}

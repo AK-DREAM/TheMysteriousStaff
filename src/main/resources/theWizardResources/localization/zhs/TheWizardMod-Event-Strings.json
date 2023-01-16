@@ -1,0 +1,52 @@
+{
+  "theWizard:IdentityCrisisEvent": {
+    "NAME": "Identity Crisis",
+    "DESCRIPTIONS": [
+      "As you move through ~The~ ~City~ you come across a #pPurple #pMirror. NL You look at it, but you see no reflection.",
+      "You see no one but #g~You~ #g~wish~ #g~to~ #g~become~ #g~someone.~",
+      "#r@YOU@ #r@EXIST@ #r@AND@ #r@ARE@ #r@VALID!@",
+      "#yYou #yare #yat #ypeace #ywith #yyour #ypresence.",
+      "You have no hands."
+    ],
+    "OPTIONS": [
+      "[Inspiration] #gGain #ga #gRandom #gStarting #gRelic.",
+      "[Denial] #rLose #r",
+      " #rMax #rHP. #gRemove #ga #gCard #gfrom #gyour #gdeck.",
+      "[Acceptance] #gGain #gApotheosis.",
+      "[TOUCH THE MIRROR] TOUCH TOUCH TO#C# TOUCH TO UCH TOUCH #rTOUCH TOUCH",
+      "[Leave]",
+      "Select card to remove."
+    ]
+  },
+  "theWizard:VendingMachineEvent": {
+    "NAME": "自动售货机",
+    "DESCRIPTIONS": [
+      "你在房间的一个角落发现了一台奇怪的机器, 也许是用魔法驱动的。 NL 机器说话了: #y~\"请投入金币。\"~",
+      "你从机器的取货槽里拿到了一个卡牌包!",
+      "你从机器的取货槽里拿到了一件礼物!",
+      "你从机器的取货槽里拿到了一瓶饮料!",
+      "你觉得这个机器很可疑, 决定无视它。"
+    ],
+    "OPTIONS": [
+      "[购买卡牌包] #y120 #y金币: #g获得稀有, #g罕见, #g普通卡各一张。",
+      "[购买礼物] #y75 #y金币: #g获得一件随机遗物。",
+      "[购买饮料] #y15 #y金币: #g获得一瓶随机药水。",
+      "[无视]",
+      "[离开]"
+    ]
+  },
+  "theWizard:MagicMirrorEvent": {
+    "NAME": "魔镜",
+    "DESCRIPTIONS": [
+      "在一条昏暗的过道旁摆放着一面镜子。 NL 你听到一个声音: #r@\"你想要的,@ #r@我都给你。\"@",
+      "你靠近镜子, 镜子里出现了你想要的东西! NL 忽然, 镜子碎了, 你也昏了过去。 NL 过了一会, 你醒了起来, 却依然感觉 #r昏昏沉沉 。",
+      "天下没有免费的午餐。"
+    ],
+    "OPTIONS": [
+      "[靠近] #g从本角色的所有卡中挑选一张获得。 #r被诅咒——苦恼。",
+      "[无视]",
+      "[离开]",
+      "选择一张牌加入牌组。"
+    ]
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "theWizard:Strike_Wiz": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "theWizard:Defend_Wiz": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "theWizard:Mana": {
+    "NAME": "Mana",
+    "DESCRIPTION": " Exhaust. NL Ethereal. ",
+    "UPGRADE_DESCRIPTION": " Exhaust. NL Retain. "
+  },
+  "theWizard:Charge": {
+    "NAME": "Charge",
+    "DESCRIPTION": "Gain !B! Block. NL Add 2 Mana to your hand."
+  },
+  "theWizard:ThunderStrike": {
+    "NAME": "Thunder Strike",
+    "DESCRIPTION": "Deal !D! damage. NL Mcost 1 : Gain [E] ."
+  },
+  "theWizard:WrathOfGod": {
+    "NAME": "Wrath Of God",
+    "DESCRIPTION": "Deal !D! damage. NL Deal !M! extra damage for each Mana in your exhaust pile."
+  },
+  "theWizard:SourceOfMana": {
+    "NAME": "Source Of Mana",
+    "DESCRIPTION": "At the start of your turn, add 2 Mana to your hand."
+  },
+  "theWizard:LightningStaff": {
+    "NAME": "Lightning Staff",
+    "DESCRIPTION": "Whenever you exhaust a Mana , deal !M! damage to a random enemy."
+  },
+  "theWizard:Chant": {
+    "NAME": "Chant",
+    "DESCRIPTION": "Draw 3 cards. NL Add !M! Mana to your hand."
+  },
+  "theWizard:StaffWallop": {
+    "NAME": "Staff Wallop",
+    "DESCRIPTION": "Deal !D! damage. NL Mcost 2: Apply !M! Vulnerable and Weak ."
+  },
+  "theWizard:Efficient": {
+    "NAME": "Efficient",
+    "DESCRIPTION": "Mcost effects cost 1 less Mana this combat. (At most 1)",
+    "UPGRADE_DESCRIPTION": " Innate. Mcost effects cost 1 less Mana this combat. (At most 1)"
+  },
+  "theWizard:ManaPotion": {
+    "NAME": "Mana Potion",
+    "DESCRIPTION": "Add !M! upgraded Mana to your hand."
+  },
+  "theWizard:Gather": {
+    "NAME": "Gather",
+    "DESCRIPTION": " Mcost 3 : Gain [E] [E] .",
+    "UPGRADE_DESCRIPTION": " Mcost 2 : Gain [E] [E] ."
+  },
+  "theWizard:ManaControl": {
+    "NAME": "Mana Control",
+    "DESCRIPTION": "At the end of turn, shuffle a Mana into your draw pile. Whenever you draw a Mana , draw !M! cards."
+  },
+  "theWizard:IceShield": {
+    "NAME": "Ice Shield",
+    "DESCRIPTION": "Gain !B! Block. NL Mcost 1 : Apply !M! Cold to ALL enemies."
+  },
+  "theWizard:WaveTheStaff": {
+    "NAME": "Wave The Staff",
+    "DESCRIPTION": "Deal !D! damage. NL Add 3 Mana to your hand."
+  },
+  "theWizard:Foretell": {
+    "NAME": "Foretell",
+    "DESCRIPTION": "Gain !B! Block. NL Put a card from your draw pile onto the top of your draw pile. NL Exhaust .",
+    "UPGRADE_DESCRIPTION": " Innate . NL Gain !B! Block. NL Put a card from your draw pile onto the top of your draw pile. NL Exhaust ."
+  },
+  "theWizard:Thunderstorm": {
+    "NAME": "Thunderstorm",
+    "DESCRIPTION": " Exhaust ALL Mana in your hand , for each deal !D! damage to ALL enemies."
+  },
+  "theWizard:Wisdom": {
+    "NAME": "Wisdom",
+    "DESCRIPTION": "Add !M! Mana to your hand. NL Draw 1 card."
+  },
+  "theWizard:Alchemy": {
+    "NAME": "Alchemy",
+    "DESCRIPTION": " Exhaust ALL Mana in your hand , for each gain !M! Gold. NL Exhaust."
+  },
+  "theWizard:Escape": {
+    "NAME": "Escape",
+    "DESCRIPTION": "Gain a Smoke Bomb. NL Exhaust."
+  },
+  "theWizard:FrozenForm": {
+    "NAME": "Frozen Form",
+    "DESCRIPTION": "Whenever you exhaust a Mana , gain !M! Block.",
+    "UPGRADE_DESCRIPTION": "Whenever you exhaust a Mana , gain 3 Block. NL At the start of turn , gain 2 Cold ."
+  },
+  "theWizard:PlanB": {
+    "NAME": "Plan B",
+    "DESCRIPTION": " Odd : Deal !D! damage. NL Even : Apply !M! Cold . NL Mcost 1 : Trigger both. "
+  },
+  "theWizard:Barrier": {
+    "NAME": "Barrier",
+    "DESCRIPTION": "Reduce the damage you take from enemies by half. NL Exhaust after !stslib:ex! uses."
+  },
+  "theWizard:OddStrike": {
+    "NAME": "Odd Strike",
+    "DESCRIPTION": "Deal !D! damage. NL Odd : Gain [E] and draw 1 card."
+  },
+  "theWizard:EvenDefend": {
+    "NAME": "Even Defend",
+    "DESCRIPTION": "Gain !B! Block. NL Even : Draw 2 cards."
+  },
+  "theWizard:Mathematician": {
+    "NAME": "Mathematician",
+    "DESCRIPTION": "Can only be played if the size of your exhaust pile is not 0 and is divisible by 7. NL Deal !D! damage 3 times.",
+    "UPGRADE_DESCRIPTION": "The size of the exhaust pile is not proper!"
+  },
+  "theWizard:LightSpeed": {
+    "NAME": "Light Speed",
+    "DESCRIPTION": "Add !M! Mana to hand. Whenever you exhaust a Mana this turn, draw 1 card. NL Exhaust ."
+  },
+  "theWizard:Focus": {
+    "NAME": "Focus",
+    "DESCRIPTION": "Discard !M! cards and Add 3 Mana to your hand."
+  },
+  "theWizard:Shield": {
+    "NAME": "Shield",
+    "DESCRIPTION": "Gain !B! Block. NL Mcost 1 : Gain !M! additional Block. NL Exhaust . NL Retain ."
+  },
+  "theWizard:PowerShield": {
+    "NAME": "Power Shield",
+    "DESCRIPTION": "At the start of turn , add 1 *Shield to your hand.",
+    "UPGRADE_DESCRIPTION": "At the start of turn , add 1 upgraded *Shield to your hand."
+  },
+  "theWizard:DoubleCast": {
+    "NAME": "Double Cast",
+    "DESCRIPTION": "Deal !D! damage. NL Mcost 2 : Deal !D! damage again."
+  },
+  "theWizard:HeadOnBlow": {
+    "NAME": "Head On Blow",
+    "DESCRIPTION": "Deal !D! damage. Shuffle !M! Mana into your discard pile."
+  },
+  "theWizard:Ignite": {
+    "NAME": "Ignite",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies twice. NL Mcost 1 : Apply !M! Vulnerable to ALL enemies."
+  },
+  "theWizard:Calm": {
+    "NAME": "Calm",
+    "DESCRIPTION": "Exhaust ALL Mana in your hand and discard other cards. NL Draw !M! Cards. NL Exhaust ."
+  },
+  "theWizard:ManaBurst": {
+    "NAME": "Mana Burst",
+    "DESCRIPTION": "Add Mana to your hand until full , gain !B! Block for each Mana added. NL Exhaust ."
+  },
+  "theWizard:DarkMagic": {
+    "NAME": "Dark Magic",
+    "DESCRIPTION": "Deal !D! damage. NL If Fatal, Heal !M! HP. NL Exhaust ."
+  },
+  "theWizard:SpellPreparation": {
+    "NAME": "Spell Preparation",
+    "DESCRIPTION": "Deal !D! damage. NL The next Mcost card you play this turn doesn't need Mana."
+  },
+  "theWizard:Overheated": {
+    "NAME": "Overheated",
+    "DESCRIPTION": "Deal !D! damage for each Mana exhausted this turn.",
+    "EXTENDED_DESCRIPTION": [
+      " NL ( ",
+      " Mana exhausted)",
+      " Mana exhausted)"
+    ]
+  },
+  "theWizard:MagicResistance": {
+    "NAME": "Magic Resistance",
+    "DESCRIPTION": "Gain !B! Block. NL Gain 1 Artifact . NL Exhaust ."
+  },
+  "theWizard:EnchantedBook": {
+    "NAME": "Enchanted Book",
+    "DESCRIPTION": " Odd : Gain !M! Strength. NL Even : Gain !M! Dexterity. NL Mcost 3 : Trigger both."
+  },
+  "theWizard:Battery": {
+    "NAME": "Battery",
+    "DESCRIPTION": "Increase your max hand size by !M! ."
+  },
+  "theWizard:PredictTheFuture": {
+    "NAME": "Predict The Future",
+    "DESCRIPTION": "Play the top !M! cards of your draw pile. NL Put a *Void onto the top of your draw pile."
+  },
+  "theWizard:Acceleration": {
+    "NAME": "Acceleration",
+    "DESCRIPTION": "At the end of turn , NL Mcost !M! : Draw 2 extra cards next turn.",
+    "UPGRADE_DESCRIPTION": " Innate. NL At the end of turn , NL Mcost !M! : Draw 2 extra cards next turn."
+  },
+  "theWizard:FrostAttack": {
+    "NAME": "Frost Attack",
+    "DESCRIPTION": "Deal !D! damage and apply !M! Cold. Put this card on top of your draw pile. NL Can be played !theWizardM! times this turn."
+  },
+  "theWizard:ColdJoke": {
+    "NAME": "Cold Joke",
+    "DESCRIPTION": "If enemy doesn't have Cold , draw 1 card. NL Apply !M! Cold ."
+  },
+  "theWizard:Snowstorm": {
+    "NAME": "Snowstorm",
+    "DESCRIPTION": " Exhaust ALL Mana in your hand , for each apply !M! Cold to ALL enemies."
+  },
+  "theWizard:FreezeRay": {
+    "NAME": "Freeze Ray",
+    "DESCRIPTION": "Deal !D! damage. NL Apply Cold equal to unblocked damage dealt. NL Frostbite : Double the damage."
+  },
+  "theWizard:AbsoluteZero": {
+    "NAME": "Absolute Zero",
+    "DESCRIPTION": "Enemies' Cold no longer reduce at the end of turn.",
+    "UPGRADE_DESCRIPTION": "Enemies' Cold no longer reduce at the end of turn."
+  },
+  "theWizard:ColdWar": {
+    "NAME": "Cold War",
+    "DESCRIPTION": "Apply !M! Cold . NL Mcost 1 : Gain [E] ."
+  },
+  "theWizard:Freeze": {
+    "NAME": "Freeze",
+    "DESCRIPTION": "Apply Slow to enemy. NL Exhaust . Ethereal. ",
+    "UPGRADE_DESCRIPTION": "Apply Slow to enemy. NL Exhaust ."
+  },
+  "theWizard:Coolant": {
+    "NAME": "Coolant",
+    "DESCRIPTION": "Multiply enemy's Cold by 1.5. NL Mcost 2 : Multiply it by 2 instead.",
+    "UPGRADE_DESCRIPTION": "Multiply enemy's Cold by 1.5. NL Mcost 1 : Multiply it by 2 instead."
+  },
+  "theWizard:IceBlast": {
+    "NAME": "Ice Blast",
+    "DESCRIPTION": "Deal damage equals to double the enemy's Cold ."
+  },
+  "theWizard:ExponentStrike": {
+    "NAME": "Exponent Strike",
+    "DESCRIPTION": "Deal !D! damage. NL If the damage dealt is greater than its base damage , set its base damage to that number. NL Frostbite : deal 170% damage."
+  },
+  "theWizard:IceBreaker": {
+    "NAME": "Ice Breaker",
+    "DESCRIPTION": "Deal !D! damage. NL Frostbite : Draw 1 card and gain [E]."
+  },
+  "theWizard:IceStaff": {
+    "NAME": "Ice Staff",
+    "DESCRIPTION": "Whenever an Attack deals unblocked damage, apply !M! Cold."
+  },
+  "theWizard:ArcaneScroll": {
+    "NAME": "Arcane Scroll",
+    "DESCRIPTION": "Gain !M! Strength this turn. Add a random Attack to your hand. NL Mcost 2: Add another random Attack. NL They cost 0 this turn. NL Exhaust ."
+  },
+  "theWizard:SupremeScroll": {
+    "NAME": "Supreme Scroll",
+    "DESCRIPTION": "Add X random card to your hand. They cost 0 this combat. NL Exhaust .",
+    "UPGRADE_DESCRIPTION": "Add X+1 random card to your hand. They cost 0 this combat. NL Exhaust ."
+  },
+  "theWizard:Mastery": {
+    "NAME": "Mastery",
+    "DESCRIPTION": "Deal !D! damage. NL Whenever a Mcost effect triggers , return this from the discard pile to your hand."
+  },
+  "theWizard:CoolDown": {
+    "NAME": "Cool Down",
+    "DESCRIPTION": "Gain 7 Cold . NL Gain [E] .",
+    "UPGRADE_DESCRIPTION": "Gain 7 Cold . NL Gain [E] [E] ."
+  },
+  "theWizard:Combo": {
+    "NAME": "Combo",
+    "DESCRIPTION": "Deal !D! damage 3 times. NL Costs 1 less [E] for each Mana exhausted this turn."
+  },
+  "theWizard:SpellImprovement": {
+    "NAME": "Spell Improvement",
+    "DESCRIPTION": "Apply !theWizardM! Cold . NL Permanently increase this card's number by !M!. NL Exhaust ."
+  },
+  "theWizard:AncientSpell": {
+    "NAME": "Ancient Spell",
+    "DESCRIPTION": " Exhaust at most !M! Mana in your hand , for each gain [E] and draw 1 card. NL Exhaust ."
+  },
+  "theWizard:BeamClash": {
+    "NAME": "Beam Clash",
+    "DESCRIPTION": "Can only be played if your have no less than 10 cards in your hand. NL Deal !D! damage to ALL enemies. NL Mcost 2 : Deal !M! more damage.",
+    "UPGRADE_DESCRIPTION": "Not enough cards!"
+  },
+  "theWizard:OverloadedDefend": {
+    "NAME": "Overloaded Defend",
+    "DESCRIPTION": "Gain !B! Block. Shuffle 2 Mana into discard pile."
+  },
+  "theWizard:ColdDisaster": {
+    "NAME": "Cold Disaster",
+    "DESCRIPTION": "Enemies take equal damage when Cold automatically reduce at the end of turn."
+  },
+  "theWizard:Worsen": {
+    "NAME": "Worsen",
+    "DESCRIPTION": "Apply Poison equal to the enemy's Cold. NL Exhaust ."
+  },
+  "theWizard:MultiFunction": {
+    "NAME": "Multi Function",
+    "DESCRIPTION": "Add 2 Mana to your hand. NL Odd : Apply !theWizardM! Cold to ALL enemies. NL Even : Apply !M! Cold to the target."
+  },
+  "theWizard:SpellBookOfFrost": {
+    "NAME": "Spell Book Of Frost",
+    "DESCRIPTION": "Discard 2 and then draw !M! cards. NL Apply 2 Cold to ALL enemies for each Skill you draw."
+  },
+  "theWizard:Launch": {
+    "NAME": "Launch",
+    "DESCRIPTION": "Draw !M! cards and gain [E] [E] . NL Gain 10 Cold . NL Exhaust ."
+  },
+  "theWizard:Solo": {
+    "NAME": "Solo",
+    "DESCRIPTION": "Choose a card in your hand. It cost 0 this turn. NL Discard other cards."
+  },
+  "theWizard:MagicEight": {
+    "NAME": "Magic Eight",
+    "DESCRIPTION": "If you have less than !M! cards in your hand : Draw cards until you have !M! in your hand. NL Otherwise : Select any number of cards in your hand to discard , then add that many Mana to hand."
+  },
+  "theWizard:SideEffect": {
+    "NAME": "Side Effect",
+    "DESCRIPTION": "Deal !D! damage. NL Whenever the target is attacked this turn , apply Cold equal to the damage. NL Exhaust ."
+  },
+  "theWizard:MagicBroom": {
+    "NAME": "Magic Broom",
+    "DESCRIPTION": " Mcost 2: Draw !M! cards."
+  },
+  "theWizard:UpgradeMagic": {
+    "NAME": "Upgrade Magic",
+    "DESCRIPTION": "Deal !D! damage. NL Mcost 1: Upgrade other cards in your hand."
+  },
+  "theWizard:IceThorns": {
+    "NAME": "Ice Thorns",
+    "DESCRIPTION": "Whenever you receive attack damage, apply !M! Cold to the attacker."
+  },
+  "theWizard:FullyArmed": {
+    "NAME": "Fully Armed",
+    "DESCRIPTION": "Gain !B! Block. NL Costs 1 less [E] for every !M! cards besides this card in your hand."
+  },
+  "theWizard:IcePrison": {
+    "NAME": "Ice Prison",
+    "DESCRIPTION": "Apply !M! Cold and !theWizardM! Weak. NL Exhaust."
+  }
+}

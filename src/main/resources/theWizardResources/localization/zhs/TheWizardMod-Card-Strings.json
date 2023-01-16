@@ -1,0 +1,350 @@
+{
+  "theWizard:Strike_Wiz": {
+    "NAME": "打击",
+    "DESCRIPTION": "造成 !D! 点伤害。"
+  },
+  "theWizard:Defend_Wiz": {
+    "NAME": "防御",
+    "DESCRIPTION": "获得 !B! 点格挡。"
+  },
+  "theWizard:Mana": {
+    "NAME": "法力",
+    "DESCRIPTION": " 消耗 。 NL 虚无 。",
+    "UPGRADE_DESCRIPTION": " 消耗 。 NL 保留 。"
+  },
+  "theWizard:Charge": {
+    "NAME": "蓄能",
+    "DESCRIPTION": "获得 !B! 点 格挡。 NL 将 2 张 法力 加入手牌。"
+  },
+  "theWizard:ThunderStrike": {
+    "NAME": "雷击",
+    "DESCRIPTION": "造成 !D! 点 伤害。 NL 魔耗 1 : 获得 [E] 。"
+  },
+  "theWizard:WrathOfGod": {
+    "NAME": "天谴",
+    "DESCRIPTION": "造成 !D! 点 伤害。 NL 消耗堆中每有一张 法力 则伤害增加 !M! 。"
+  },
+  "theWizard:SourceOfMana": {
+    "NAME": "法力源泉",
+    "DESCRIPTION": "每回合开始时 , 将 2 张 法力 加入手牌。"
+  },
+  "theWizard:LightningStaff": {
+    "NAME": "雷电之杖",
+    "DESCRIPTION": "你每消耗一张 法力 , 对随机一名敌人造成 !M! 伤害。"
+  },
+  "theWizard:Chant": {
+    "NAME": "咏唱",
+    "DESCRIPTION": "抽 3 张牌 , 将 !M! 张 法力 加入手牌。"
+  },
+  "theWizard:StaffWallop": {
+    "NAME": "法杖猛击",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 魔耗 2: 给予 !M! 层 虚弱 和 易伤 。"
+  },
+  "theWizard:Efficient": {
+    "NAME": "节能",
+    "DESCRIPTION": "本场战斗中发动 魔耗 所需 法力 减1。(不可叠加)",
+    "UPGRADE_DESCRIPTION": " 固有 。 本场战斗中发动 魔耗 所需 法力 减1。(不可叠加)"
+  },
+  "theWizard:ManaPotion": {
+    "NAME": "法力药水",
+    "DESCRIPTION": "将 !M! 张 升级 过的 法力 加入手牌。"
+  },
+  "theWizard:Gather": {
+    "NAME": "聚能",
+    "DESCRIPTION": " 魔耗 3 : 获得 [E] [E] 。",
+    "UPGRADE_DESCRIPTION": " 魔耗 2 : 获得 [E] [E] 。"
+  },
+  "theWizard:ManaControl": {
+    "NAME": "法力掌控",
+    "DESCRIPTION": "回合结束时将一张 法力 洗入抽牌堆。你每抽到一张 法力 , 抽 !M! 张牌。"
+  },
+  "theWizard:IceShield": {
+    "NAME": "冰盾",
+    "DESCRIPTION": "获得 !B! 点格挡。 NL 魔耗 1 : 给予所有敌人 !M! 层 寒冷 。"
+  },
+  "theWizard:WaveTheStaff": {
+    "NAME": "挥舞法杖",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 将 3 张 法力 加入手牌。"
+  },
+  "theWizard:Foretell": {
+    "NAME": "预言",
+    "DESCRIPTION": "获得 !B! 点格挡。 NL 选择抽牌堆中的一张牌置于抽牌堆顶。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 获得 !B! 点格挡。 NL 选择抽牌堆中的一张牌置于抽牌堆顶。 NL 消耗 。"
+  },
+  "theWizard:Thunderstorm": {
+    "NAME": "雷暴",
+    "DESCRIPTION": " 消耗 手牌中所有 法力 , 每 消耗 一张对所有敌人造成 !D! 点伤害。"
+  },
+  "theWizard:Wisdom": {
+    "NAME": "智慧",
+    "DESCRIPTION": "将 !M! 张 法力 加入手牌。 NL 抽 1 张牌。"
+  },
+  "theWizard:Alchemy": {
+    "NAME": "炼金术",
+    "DESCRIPTION": " 消耗 手牌中所有 法力 , 每 消耗 一张获得 !M! 金币。 NL 消耗 。"
+  },
+  "theWizard:Escape": {
+    "NAME": "逃跑",
+    "DESCRIPTION": "获得一瓶烟雾弹。 NL 消耗 。"
+  },
+  "theWizard:FrozenForm": {
+    "NAME": "冰封形态",
+    "DESCRIPTION": "你每消耗一张 法力 , 获得 !M! 格挡。",
+    "UPGRADE_DESCRIPTION": "你每消耗一张 法力 , 获得 3 格挡。 NL 每回合开始时 , 获得 2 层 寒冷。"
+  },
+  "theWizard:PlanB": {
+    "NAME": "两手准备",
+    "DESCRIPTION": " 奇数 : 造成 !D! 点伤害。 NL 偶数 : 给予 !M! 层 寒冷 。 NL 魔耗 1 : 同时触发两个效果。"
+  },
+  "theWizard:ArtifactKiller": {
+    "NAME": "人工制品杀手 (暂时移除)",
+    "DESCRIPTION": "给予敌人 1 点 寒冷 8 次。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 给予敌人 1 点 寒冷 8 次。 NL 消耗 。"
+  },
+  "theWizard:Barrier": {
+    "NAME": "屏障",
+    "DESCRIPTION": "本回合你受到来自敌人的伤害减半。 NL 使用 !stslib:ex! 次后 消耗 。"
+  },
+  "theWizard:WellPrepared": {
+    "NAME": "蓄势待发(暂时移除)",
+    "DESCRIPTION": "在抽牌堆中洗入 3 张 法力 。 NL 下回合额外抽 !M! 张牌。"
+  },
+  "theWizard:OddStrike": {
+    "NAME": "奇数打击",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 奇数 : 获得 [E] 并抽 1 张牌。"
+  },
+  "theWizard:EvenDefend": {
+    "NAME": "偶数防御",
+    "DESCRIPTION": "获得 !B! 点格挡。 NL 偶数 : 抽 2 张牌。"
+  },
+  "theWizard:Mathematician": {
+    "NAME": "数学大师",
+    "DESCRIPTION": "当消耗堆的牌数不为 0 且为 7 的倍数时才能打出。 NL 造成 !D! 点伤害 3 次。",
+    "UPGRADE_DESCRIPTION": "消耗堆的牌数不符合要求!"
+  },
+  "theWizard:LightSpeed": {
+    "NAME": "光速",
+    "DESCRIPTION": "将 !M! 张 法力 加入手牌。本回合每消耗 1 张 法力 就抽 1 张牌。 NL 消耗 。"
+  },
+  "theWizard:Focus": {
+    "NAME": "集中注意",
+    "DESCRIPTION": "丢弃 !M! 张手牌 , 将 3 张 法力 加入手牌。"
+  },
+  "theWizard:Shield": {
+    "NAME": "护盾",
+    "DESCRIPTION": "获得 !B! 点格挡。 NL 魔耗 1 : 再获得 !M! 点格挡。 NL 消耗 。 NL 保留 。"
+  },
+  "theWizard:PowerShield": {
+    "NAME": "能量护盾",
+    "DESCRIPTION": "每回合开始时 , 将 1 张 *护盾 加入手牌。",
+    "UPGRADE_DESCRIPTION": "每回合开始时 , 将 1 张 升级 过的 *护盾 加入手牌。"
+  },
+  "theWizard:DoubleCast": {
+    "NAME": "双倍施法",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 魔耗 2 : 再造成 !D! 点伤害。 "
+  },
+  "theWizard:HeadOnBlow": {
+    "NAME": "当头一击",
+    "DESCRIPTION": "造成 !D! 点伤害。将 !M! 张 法力 洗入弃牌堆。"
+  },
+  "theWizard:Ignite": {
+    "NAME": "点燃",
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害 2 次。 NL 魔耗 1 : 给予所有敌人 !M! 层 易伤 。"
+  },
+  "theWizard:Calm": {
+    "NAME": "冷静",
+    "DESCRIPTION": "消耗手牌中所有 法力 , 丢弃其余手牌 , 抽 !M! 张牌。 NL 消耗 。"
+  },
+  "theWizard:ManaBurst": {
+    "NAME": "法力爆发",
+    "DESCRIPTION": "在手牌中加入 法力 直到填满手牌 , 每加入一张获得 !B! 点 格挡 。 NL 消耗 。"
+  },
+  "theWizard:DarkMagic": {
+    "NAME": "黑魔法",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 斩杀 : 回复 !M! 点生命。 NL 消耗 。"
+  },
+  "theWizard:SpellPreparation": {
+    "NAME": "施法准备",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 你本回合打出的下 !M! 张 魔耗 牌不消耗 法力 。"
+  },
+  "theWizard:Overheated": {
+    "NAME": "过热",
+    "DESCRIPTION": "本回合每消耗过一张 法力 , 造成一次 !D! 点伤害。",
+    "EXTENDED_DESCRIPTION": [
+      " NL (造成伤害 ",
+      " 次)",
+      " 次)"
+    ]
+  },
+  "theWizard:TimeReverse": {
+    "NAME": "逆转时间",
+    "DESCRIPTION": "交换你的抽牌堆和弃牌堆并分别打乱。 NL 抽 !M! 张牌。"
+  },
+  "theWizard:MagicResistance": {
+    "NAME": "魔法抵抗",
+    "DESCRIPTION": "获得 !B! 点格挡。 NL 获得1层 人工制品 。 NL 消耗 。"
+  },
+  "theWizard:EnchantedBook": {
+    "NAME": "附魔书",
+    "DESCRIPTION": " 奇数 : 获得 !M! 点 力量 。 NL 偶数 : 获得 !M! 点 敏捷 。 NL 魔耗 3 : 同时触发两个效果。"
+  },
+  "theWizard:Battery": {
+    "NAME": "电池",
+    "DESCRIPTION": "将你的手牌上限增加 !M! 。"
+  },
+  "theWizard:PredictTheFuture": {
+    "NAME": "预知未来",
+    "DESCRIPTION": "打出牌堆顶的 !M! 张牌。 NL 将一张 虚空 放至抽牌堆顶。"
+  },
+  "theWizard:Acceleration": {
+    "NAME": "法力加速",
+    "DESCRIPTION": "每回合结束时 , NL 魔耗 !M! : 下回合额外抽2张牌。",
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 每回合结束时 , NL 魔耗 !M! : 下回合额外抽2张牌。"
+  },
+  "theWizard:FrostAttack": {
+    "NAME": "冰霜攻击",
+    "DESCRIPTION": "造成 !D! 点伤害 , 给予 !M! 点 寒冷 。 NL 返回抽牌堆顶。 NL 本回合最多打出 !theWizardM! 次。"
+  },
+  "theWizard:ColdJoke": {
+    "NAME": "冷笑话",
+    "DESCRIPTION": "若敌人没有寒冷 , 抽 1 张牌。 NL 给予 !M! 点 寒冷 。"
+  },
+  "theWizard:Snowstorm": {
+    "NAME": "暴风雪",
+    "DESCRIPTION": " 消耗 手牌中所有 法力 , 每 消耗 一张给予所有敌人 !M! 层 寒冷 。"
+  },
+  "theWizard:FreezeRay": {
+    "NAME": "冰冻射线",
+    "DESCRIPTION": "造成 !D! 点伤害 , 给予目标 \"未被格挡的伤害数值\" 层 寒冷 。 NL 冻伤 : 造成双倍伤害 。"
+  },
+  "theWizard:AbsoluteZero": {
+    "NAME": "绝对零度",
+    "DESCRIPTION": "敌人的 寒冷 将不再在回合结束时减少。",
+    "UPGRADE_DESCRIPTION": "敌人的 寒冷 将不再在回合结束时减少。"
+  },
+  "theWizard:ColdWar": {
+    "NAME": "冷战",
+    "DESCRIPTION": "给予 !M! 点 寒冷 。 NL 魔耗 1 : 获得 [E] 。"
+  },
+  "theWizard:Freeze": {
+    "NAME": "冻结",
+    "DESCRIPTION": "给予敌人 缓慢 。 NL 消耗 。 虚无 。",
+    "UPGRADE_DESCRIPTION": "给予敌人 缓慢 。 NL 消耗 。"
+  },
+  "theWizard:Coolant": {
+    "NAME": "冷却剂",
+    "DESCRIPTION": "使目标的 寒冷 层数变为 2 倍。 NL 魔耗 2 : 变为 3 倍 。",
+    "UPGRADE_DESCRIPTION": "使目标的 寒冷 层数变为 2 倍。 NL 魔耗 1 : 变为 3 倍 。"
+  },
+  "theWizard:IceBlast": {
+    "NAME": "冰爆",
+    "DESCRIPTION": "造成等同于目标 寒冷 层数 2 倍的伤害。"
+  },
+  "theWizard:ExponentStrike": {
+    "NAME": "指数打击",
+    "DESCRIPTION": "造成 !D! 伤害。 NL 若造成的实际伤害高于基础伤害 , 将基础伤害改为实际伤害。 NL 冻伤 : 造成170%伤害 。"
+  },
+  "theWizard:IceBreaker": {
+    "NAME": "碎冰",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 冻伤 : 获得 [E] 并抽1张牌 。"
+  },
+  "theWizard:IceStaff": {
+    "NAME": "寒冰之杖",
+    "DESCRIPTION": "每当你对敌人造成一次未被格挡的伤害时 , 给予敌人 !M! 层 寒冷 。"
+  },
+  "theWizard:ArcaneScroll": {
+    "NAME": "奥术卷轴",
+    "DESCRIPTION": "获得 !M! 点临时 力量 。获得1张随机攻击牌。 NL 魔耗 2: 再获得1张随机攻击牌。 NL 得到的牌本回合耗能为 0 。 NL 消耗 。"
+  },
+  "theWizard:SupremeScroll": {
+    "NAME": "至上卷轴",
+    "DESCRIPTION": "将 X 张随机卡加入手牌 , 本场战斗耗能为 0 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "将 X+1 张随机卡加入手牌 , 本场战斗耗能为 0 。 NL 消耗 。"
+  },
+  "theWizard:Mastery": {
+    "NAME": "精通",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 每当发动 魔耗 时 , 将此卡从弃牌堆放入手牌。"
+  },
+  "theWizard:Conduction": {
+    "NAME": "连锁 (暂时移除)",
+    "DESCRIPTION": "场上每有一个敌人 , 对随机敌人造成 !D! 点伤害一次 。"
+  },
+  "theWizard:CoolDown": {
+    "NAME": "降温",
+    "DESCRIPTION": "获得 7 点 寒冷 。 NL 获得 [E] 。",
+    "UPGRADE_DESCRIPTION": "获得 7 点 寒冷 。 NL 获得 [E] [E] 。"
+  },
+  "theWizard:Combo": {
+    "NAME": "连续技",
+    "DESCRIPTION": "造成 !D! 点伤害 3 次。 NL 你在本回合每消耗一张 法力 耗能就减少 1 。"
+  },
+  "theWizard:SpellImprovement": {
+    "NAME": "咒语改进",
+    "DESCRIPTION": "给予 !theWizardM! 层 寒冷 。 NL 每打出一次，这张牌在本局游戏中给予的 寒冷 值永久性增加 !M! 。 NL 消耗 。"
+  },
+  "theWizard:AncientSpell": {
+    "NAME": "远古咒术",
+    "DESCRIPTION": " 消耗 手牌中至多 !M! 张法力 , 每 消耗 一张就获得 [E] 并抽一张牌。 NL 消耗 。"
+  },
+  "theWizard:BeamClash": {
+    "NAME": "对波",
+    "DESCRIPTION": "仅当你手牌数大于等于 10 时才能打出。 NL 对所有敌人造成 !D! 伤害。 NL 魔耗 2 : 额外造成 !M! 伤害。",
+    "UPGRADE_DESCRIPTION": "手牌数小于 10 张！"
+  },
+  "theWizard:OverloadedDefend": {
+    "NAME": "过载防御",
+    "DESCRIPTION": "获得 !B! 点格挡。将 2 张法力洗入弃牌堆。"
+  },
+  "theWizard:ColdDisaster": {
+    "NAME": "雪上加霜",
+    "DESCRIPTION": "敌人在回合结束减少 寒冷 时也受到等同于减少层数的伤害。"
+  },
+  "theWizard:Worsen": {
+    "NAME": "恶化",
+    "DESCRIPTION": "使目标获得等同于 寒冷 层数的 中毒 。 NL 消耗 。"
+  },
+  "theWizard:MultiFunction": {
+    "NAME": "多功能",
+    "DESCRIPTION": "将 2 张 法力 加入手牌。 奇数 : 给予所有敌人 !theWizardM! 层 寒冷 。 NL 偶数 : 给予目标 !M! 层 寒冷 。"
+  },
+  "theWizard:SpellBookOfFrost": {
+    "NAME": "霜之法典",
+    "DESCRIPTION": "丢弃 2 张牌 , 抽 !M! 张牌 , 每抽到一张技能牌就给予所有敌人 2 点 寒冷 。"
+  },
+  "theWizard:Launch": {
+    "NAME": "弹射起步",
+    "DESCRIPTION": "抽 !M! 张牌 , 获得 [E] [E] , 获得 10 层 寒冷 。 NL 消耗 。"
+  },
+  "theWizard:Solo": {
+    "NAME": "独奏",
+    "DESCRIPTION": "选择一张手牌 , 将此牌本回合耗能设为 0 。 NL 丢弃其他手牌。"
+  },
+  "theWizard:MagicEight": {
+    "NAME": "魔力八",
+    "DESCRIPTION": "若手牌数小于 !M! : 抽牌直至手牌数为 !M! 。 NL 否则 : 选择任意张牌来丢弃 , 将等量的 法力 加入手牌。"
+  },
+  "theWizard:SideEffect": {
+    "NAME": "副作用",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 本回合 , 目标受到攻击伤害时获得等量 寒冷 。 NL 消耗 。"
+  },
+  "theWizard:MagicBroom": {
+    "NAME": "魔法扫帚",
+    "DESCRIPTION": " 魔耗 2: 抽 !M! 张牌。"
+  },
+  "theWizard:UpgradeMagic": {
+    "NAME": "升级法术",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 魔耗 1: 升级 手牌中其他牌。"
+  },
+  "theWizard:IceThorns": {
+    "NAME": "冰刺",
+    "DESCRIPTION": "每受到一次攻击, 给予攻击者 !M! 层 寒冷 。"
+  },
+  "theWizard:FullyArmed": {
+    "NAME": "全副武装",
+    "DESCRIPTION": "获得 !B! 点格挡。 NL 除此牌外 , 手牌中每有 !M! 张牌耗能减少 1 。"
+  },
+  "theWizard:IcePrison": {
+    "NAME": "冰狱",
+    "DESCRIPTION": "给予 !M! 层 寒冷 和 !theWizardM! 层 虚弱 。 NL 消耗 。"
+  }
+}

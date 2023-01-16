@@ -1,0 +1,86 @@
+{
+        "theWizard:SourceOfManaPower": {
+                "NAME": "Source Of Mana",
+                "DESCRIPTIONS": ["At the start of turn , add #b", " #yMana to your hand."]
+        },
+        "theWizard:LightningStaffPower": {
+                "NAME": "Lightning Staff",
+                "DESCRIPTIONS": ["Whenever you exhaust a #yMana , deal #b", " damage to a random enemy."]
+        },
+        "theWizard:EfficientPower": {
+                "NAME": "Efficient",
+                "DESCRIPTIONS": ["Mcost effects cost 1 less Mana this combat."]
+        },
+        "theWizard:ManaControlPower": {
+                "NAME": "Mana Control",
+                "DESCRIPTIONS": ["Whenever you draw a #yMana , draw #b", " cards."]
+        },
+        "theWizard:ManaControl2Power": {
+                "NAME": "Mana Control",
+                "DESCRIPTIONS": ["At the end of turn , shuffle #b", " #yMana into your draw pile."]
+        },
+        "theWizard:FrozenFormPower": {
+                "NAME": "Frozen Form",
+                "DESCRIPTIONS": ["Whenever you exhaust a #yMana , gain #b", " Block."]
+        },
+        "theWizard:FrozenFormDebuffPower": {
+                "NAME": "Frozen Form Debuff",
+                "DESCRIPTIONS": ["At the start of turn , gain #b", " Cold."]
+        },
+        "theWizard:BarrierPower": {
+                "NAME": "Barrier",
+                "DESCRIPTIONS": ["Reduce the damage you take from enemies by half."]
+        },
+        "theWizard:LightSpeedPower": {
+                "NAME": "Light Speed",
+                "DESCRIPTIONS": ["Whenever you exhaust a #yMana , draw #b", " cards."]
+        },
+        "theWizard:PowerShieldPower": {
+                "NAME": "Power Shield",
+                "DESCRIPTIONS": ["At the start of turn , add #b", " #yShield to your hand。"]
+        },
+        "theWizard:PowerShieldPlusPower": {
+                "NAME": "Power Shield+",
+                "DESCRIPTIONS": ["At the start of turn , add #b", " #yupgraded #yShield to your hand。"]
+        },
+        "theWizard:BatteryPower": {
+                "NAME": "Battery",
+                "DESCRIPTIONS": ["Your max hand size is increased by #b", " ."]
+        },
+        "theWizard:AccelerationPower": {
+                "NAME": "Acceleration",
+                "DESCRIPTIONS": ["At the end of turn , #yMcost 1 : draw 2 extra cards next turn"]
+        },
+        "theWizard:ColdPower": {
+                "NAME": "Cold",
+                "DESCRIPTIONS": ["When owner attacks, reduce Cold and reduce the damage by the same number. Reduce by half at the end of turn."]
+        },
+        "theWizard:AbsoluteZeroPower": {
+                "NAME": "Absolute Zero",
+                "DESCRIPTIONS": ["Enemies' Cold no longer reduce at the end of turn."]
+        },
+        "theWizard:IceStaffPower": {
+                "NAME": "Ice Staff",
+                "DESCRIPTIONS": ["Whenever an Attack deals unblocked damage, apply #b", " #yCold."]
+        },
+        "theWizard:ColdDisasterPower": {
+                "NAME": "Cold Disaster",
+                "DESCRIPTIONS": ["Enemies take equal damage when #yCold automatically reduce at the end of turn."]
+        },
+        "theWizard:SideEffectPower": {
+                "NAME": "Side Effect",
+                "DESCRIPTIONS": ["Gain Cold equal to damage taken."]
+        },
+        "theWizard:NoCostPower": {
+                "NAME": "Free Mcost",
+                "DESCRIPTIONS": ["The next #b", " #yMcost cards you play won't exhaust Mana."]
+        },
+        "theWizard:ApplyColdPower": {
+                "NAME": "Cold Disaster",
+                "DESCRIPTIONS": ["At the start of turn, apply #b", " #yCold to ALL enemies."]
+        },
+        "theWizard:IceThornsPower": {
+                "NAME": "Ice Thorns",
+                "DESCRIPTIONS": ["Whenever you receive attack damage, apply #b", " #yCold to the attacker."]
+        }
+}

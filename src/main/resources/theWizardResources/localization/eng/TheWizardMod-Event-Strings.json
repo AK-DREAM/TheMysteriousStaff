@@ -1,0 +1,52 @@
+{
+  "theWizard:IdentityCrisisEvent": {
+    "NAME": "Identity Crisis",
+    "DESCRIPTIONS": [
+      "As you move through ~The~ ~City~ you come across a #pPurple #pMirror. NL You look at it, but you see no reflection.",
+      "You see no one but #g~You~ #g~wish~ #g~to~ #g~become~ #g~someone.~",
+      "#r@YOU@ #r@EXIST@ #r@AND@ #r@ARE@ #r@VALID!@",
+      "#yYou #yare #yat #ypeace #ywith #yyour #ypresence.",
+      "You have no hands."
+    ],
+    "OPTIONS": [
+      "[Inspiration] #gGain #ga #gRandom #gStarting #gRelic.",
+      "[Denial] #rLose #r",
+      " #rMax #rHP. #gRemove #ga #gCard #gfrom #gyour #gdeck.",
+      "[Acceptance] #gGain #gApotheosis.",
+      "[TOUCH THE MIRROR] TOUCH TOUCH TO#C# TOUCH TO UCH TOUCH #rTOUCH TOUCH",
+      "[Leave]",
+      "Select card to remove."
+    ]
+  },
+  "theWizard:VendingMachineEvent": {
+    "NAME": "Vending Machine",
+    "DESCRIPTIONS": [
+      "You find a strange machine in the corner of the room. Maybe it's driven by magic. NL It starts to talk: #y~\"Please~ #y~put~ #y~in~ #y~some~ #y~gold.\"~",
+      "You get a card pack from the machine!",
+      "You get a gift from the machine!",
+      "You get a potion from the machine!",
+      "你觉得这个机器很可疑 , 决定无视它。"
+    ],
+    "OPTIONS": [
+      "[Buy a Card Pack] #y120 #yGold: #gObtain #g3 #gcards #gof #g3 #gdifferent #grarities.",
+      "[Buy a Gift] #y75 #yGold: #gObtain #ga #gRelic.",
+      "[Buy a Potion] #y15 #yGold: #gObtain #ga #gPotion.",
+      "[Ignore]",
+      "[Leave]"
+    ]
+  },
+  "theWizard:MagicMirrorEvent": {
+    "NAME": "Magic Mirror",
+    "DESCRIPTIONS": [
+      "You find a mirror by the path. NL You hear a voice: #r@\"I'LL@ #r@GIVE@ #r@YOU@ #r@WHATEVER@ #r@YOU@ #r@WANT.\"@",
+      "As you get closer, you see the thing you want in the mirror! NL Suddenly, the mirror breaks, and you pass out. NL After a while, you woke up, but you still feel #rdizzy .",
+      "There ain't no such thing as a free lunch."
+    ],
+    "OPTIONS": [
+      "[Get Closer] #gChoose #gan #garbitrary #gcard #gto #gadd #gto #gyour #gdeck. #rBecome #rCursed #r- #rWrithe.",
+      "[Ignore]",
+      "[Leave]",
+      "Choose a card to obtain."
+    ]
+  }
+}
